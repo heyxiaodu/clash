@@ -1,6 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+
+# MYDDNS
+DOMAIN-SUFFIX,u1so1.eu.org
+DOMAIN-SUFFIX,noble7.top
+DOMAIN-SUFFIX,nervcode.eu.org
 # 域名后缀匹配
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
@@ -11,8 +16,6 @@ DOMAIN-SUFFIX,wan.family
 DOMAIN-SUFFIX,angeworld.top
 DOMAIN-SUFFIX,angeworld.cc
 DOMAIN-SUFFIX,jlip.cc
-
-
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
